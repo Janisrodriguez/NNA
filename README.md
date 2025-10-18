@@ -10,7 +10,7 @@
 - **Objetivo general:** Evaluar la efectividad del programa de desvinculación del trabajo infantil mediante el análisis integral de las intervenciones, los perfiles profesionales y las características de la población atendida.
 - **Objetivos específicos:**
   1. **Efectividad por intervención/perfil**: Medir tasas de desvinculación y priorizar combinaciones con mayor impacto.
-  2. **Mapa de riesgo por zona**: referenciar riesgo donde coexisten alta prevalencia y menor efectividad; entregar un *ranking* de zonas críticas.
+  2. **Tabla de riesgo por zona**: referenciar riesgo donde coexisten alta prevalencia y menor efectividad; entregar un *ranking* de zonas críticas.
   3. **Segmentación (clustering)**: identificar grupos de atención (perfiles/zonas) con necesidades diferenciales de intensidad o tipo de intervención.
 
 ---
