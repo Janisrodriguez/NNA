@@ -1,8 +1,7 @@
 # Análisis de la efectividad de las intervenciones para la desvinculación del trabajo infantil en Colombia
 
 **Autores de la presentación:** Diego Andres Álvarez, Janis Rodriguez Oyola, María Camila Infante  
-**Formato:** README del proyecto (resumen ejecutivo + guía de reproducción)  
-**Última actualización:** 2025-10-17
+**Última actualización:** 2025-10-16
 
 ---
 
